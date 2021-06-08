@@ -1,0 +1,65 @@
+{
+  "id": "1632980",
+  "name": "UIMS",
+  "font_family": "ep-icon",
+  "css_prefix_text": "i-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11348890",
+      "name": "back",
+      "font_class": "back",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "1391486",
+      "name": "角色管理",
+      "font_class": "role",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "4584754",
+      "name": "账号管理",
+      "font_class": "account",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "8197805",
+      "name": "用户管理",
+      "font_class": "user",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "8314480",
+      "name": "日志 操作记录",
+      "font_class": "log",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "12770880",
+      "name": "API (1)",
+      "font_class": "api",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "10455020",
+      "name": "权限管理",
+      "font_class": "authorize",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "128920",
+      "name": "exit",
+      "font_class": "exit",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    }
+  ]
+}

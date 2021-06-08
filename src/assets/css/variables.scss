@@ -1,0 +1,18 @@
+$red: #e91b1c;
+$gray: #d7d7d7;
+$theme-color: #009ad9; /*#42b983*/
+$theme-back-color: #304156; /*#d7d7d7*/
+$theme-help-color: #74c4e4;
+$theme-border-color: #d7d7d7;
+$font-white: #fbfbfb;
+$font-black: #333;
+
+
+:export {
+    themeColor: $theme-color;
+    themeBackColor: $theme-back-color;
+    themeHelpColor: $theme-help-color;
+    themeBorderColor: $theme-border-color;
+    fontWhite: $font-white;
+    fontBlack: $font-black;
+}

@@ -1,0 +1,101 @@
+{
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "explorer.confirmDelete": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "vetur.experimental.templateInterpolationService": false,
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.defaultFormatter.js": "vscode-typescript",
+    "vetur.format.defaultFormatterOptions": {
+        "wrap_attributes": false,
+        "js-beautify-html": {
+            "wrap_attributes": false,
+            "end_with_newline": false
+        },
+        "prettyhtml": {
+            "printWidth": 100,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        }
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "vetur.format.defaultFormatter.ts": "none",
+    "workbench.startupEditor": "welcomePage",
+    "scssFormatter.tabWidth": 4,
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "typescript.suggest.completeJSDocs": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "[css]": {
+        "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    },
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript"
+    },
+    "emmet.includeLanguages": {
+        "wxml": "html"
+    },
+    "minapp-vscode.disableAutoConfig": true,
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "blade",
+        "ejs",
+        "jinja",
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "plaintext",
+        "markdown",
+        "vue",
+        "liquid",
+        "erb",
+        "lang-cfml",
+        "cfml",
+        "HTML (EEx)",
+        "HTML (Eex)",
+        "plist"
+    ],
+    "vscode-live2d.enabled": false,
+    "editor.fontFamily": "Fira Code Light,Menlo, Monaco, 'Courier New', monospace",
+    "workbench.colorTheme": "Feel Good LY",
+    "workbench.iconTheme": "vscode-great-icons",
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": true
+    },
+    "editor.codeActionsOnSave": null,
+    "backgroung.enable":false,
+        "files.autoSave": "afterDelay",
+        "less.compile": {
+            "compress": false, // 是否压缩
+            "sourceMap": false, // 是否生成map文件，有了这个可以在调试台看到less行数
+            "out": false, // 是否输出css文件，false为不输出
+        },
+        "liveServer.settings.donotShowInfoMsg": true,
+        "editor.rulers": [],
+        "update.mode": "none",
+        "vsicons.dontShowNewVersionMessage": true,
+        "window.zoomLevel": -1,
+        "vetur.validation.template": false,
+        "minapp-vscode.prettier": {
+
+            "printWidth": 100,
+            "singleQuote": false,
+            "tabWidth": 2,
+            "useTabs": false
+        }
+}
